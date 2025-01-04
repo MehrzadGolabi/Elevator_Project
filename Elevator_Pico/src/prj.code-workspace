@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "prj",
+			"path": "../../.."
+		},
+		{
+			"name": "Elevator_Pico",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
